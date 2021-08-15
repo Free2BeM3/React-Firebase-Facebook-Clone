@@ -1,0 +1,8 @@
+.Home {
+    background-color: #0a0a0a;
+   
+  }
+  
+  .Home__body {
+    display: flex;
+  }
